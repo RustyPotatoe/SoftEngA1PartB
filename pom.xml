@@ -19,7 +19,7 @@
         <dependency>
             <groupId>com.github.RustyPotatoe</groupId>
             <artifactId>SoftEngA1</artifactId>
-            <version>69ae53ffa9</version>
+            <version>v3</version>
         </dependency>
     </dependencies>
 
